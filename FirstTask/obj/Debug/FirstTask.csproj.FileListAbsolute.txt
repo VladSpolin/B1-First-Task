@@ -1,0 +1,16 @@
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\EntityFramework.dll
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\EntityFramework.SqlServer.dll
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\EntityFramework.xml
+D:\My projects C#\FirstTask\FirstTask\bin\Debug\EntityFramework.SqlServer.xml
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.AssemblyReference.cache
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.SuggestedBindingRedirects.cache
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.Properties.Resources.resources
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.GenerateResource.cache
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CopyComplete
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
+D:\My projects C#\FirstTask\FirstTask\obj\Debug\FirstTask.Form1.resources
